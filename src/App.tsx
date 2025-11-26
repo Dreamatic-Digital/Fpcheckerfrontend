@@ -600,7 +600,7 @@ export default function App() {
 
   if (showResults) {
     return (
-      <div className="min-h-screen bg-[#0693e3] py-4 px-4 md:py-8 md:px-6 lg:px-8">
+      <div className="min-h-screen bg-white py-4 px-4 md:py-8 md:px-6 lg:px-8">
         {/* Logo and Back Button */}
         <div className="max-w-6xl mx-auto mb-4 md:mb-6 px-0 md:px-4 flex items-start justify-between">
           <a
@@ -684,7 +684,7 @@ export default function App() {
   }
 
   return (
-    <div className="min-h-screen bg-[#0693e3] py-4 px-4 md:py-8 md:px-6 lg:px-8">
+    <div className="min-h-screen bg-white py-4 px-4 md:py-8 md:px-6 lg:px-8">
       {/* Logo and Back Button */}
       <div className="max-w-6xl mx-auto mb-4 md:mb-6 px-0 md:px-4 flex items-start justify-between">
         <a
